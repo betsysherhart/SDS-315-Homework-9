@@ -76,7 +76,7 @@ When ***Opening = L and Solder = Thin**, the main effect for thin solder is **2.
 
 **Interaction effect for Opening: M and Solder: Thin:**
 
-When **Opening = M and Solder = Thin** (i.e., the opening is medium and the solder is thin), the interaction effect is **-0.74 skips**. In other words, boards made with both a medium opening and thin solder result in 0.74 fewer skips than expected based on the sum of their individual (isolated) effects, for a **total of 4.343 skips (0.393 + 2.41 + 2.28 - 0.74)**..
+When **Opening = M and Solder = Thin** (i.e., the opening is medium and the solder is thin), the interaction effect is **-0.74 skips**. In other words, boards made with both a medium opening and thin solder result in 0.74 fewer skips than expected based on the sum of their individual (isolated) effects, for a **total of 4.343 skips (0.393 + 2.41 + 2.28 - 0.74)**.
 
 **Interaction effect for Opening: S and Solder: Thin:**
 
